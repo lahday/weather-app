@@ -1,0 +1,19 @@
+
+
+body{
+  background: #c8d3d2 ;
+  letter-spacing: 1px ;
+  font-size: 12px ;
+}
+
+.container{
+  max-width:400px;
+}
+
+.icon{
+  position: relative;
+  top: -50px;
+  border-radius: 50%;
+  width: 100px;
+  margin-bottom: -50px;
+}
